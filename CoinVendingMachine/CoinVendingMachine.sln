@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinVendingMachine", "CoinVendingMachine.csproj", "{30C1A513-D8D8-45C7-97DB-0C8C7664C4A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinVendingMachinTestCodeCoverage", "..\VendingmachineTestCodeCoverage\CoinVendingMachinTestCodeCoverage.csproj", "{6DBCE78C-FFFA-45F2-9A42-896C74C561E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinVendingMachine.Test", "..\VendingmachineTestCodeCoverage\CoinVendingMachine.Test.csproj", "{6DBCE78C-FFFA-45F2-9A42-896C74C561E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
