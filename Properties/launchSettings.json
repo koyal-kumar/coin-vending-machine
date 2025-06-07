@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CoinVendingMachine": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
